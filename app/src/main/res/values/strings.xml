@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryboardKu</string>
+    <string name="tab_proyek">Proyek</string>
+    <string name="tab_karakter">Karakter</string>
+    <string name="tab_storyboard">Storyboard</string>
+    <string name="tab_riwayat">Riwayat</string>
+    <string name="tab_pengaturan">Setelan</string>
+    <string name="action_add_scene">+ Tambah Scene</string>
+    <string name="action_generate_all">Buat Semua Gambar</string>
+    <string name="action_export_pdf">Export PDF</string>
+    <string name="action_back_to_top">Kembali ke Atas</string>
+    <string name="action_copy_prompt">Salin Prompt</string>
+    <string name="action_open_generator">Buka Generator</string>
+    <string name="notice_ai_requires_firebase">Generator AI bawaan memerlukan Firebase AI Logic. Saat ini menggunakan mode pratinjau sampel — gunakan Salin Prompt &amp; Buka Generator atau Impor Gambar.</string>
+</resources>

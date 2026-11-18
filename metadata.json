@@ -1,0 +1,6 @@
+{
+  "name": "StoryboardKu",
+  "description": "Aplikasi pembuat storyboard film dan video berbahasa Indonesia dengan character lock dan generator gambar AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
